@@ -1,5 +1,14 @@
 var data = {
     enchants: {
+        /*TEMPLATE
+        enchant: {
+            levelMax: "1",
+            weight: "4",
+            incompatible: [],
+            items: ["helmet", "chestplate", "leggings", "boots", "elytra", "pumpkin", "helmet", "turtle_shell"]
+        },*/
+
+
         protection: {
             levelMax: "4",
             weight: "1",
@@ -243,7 +252,17 @@ var data = {
                 "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "pumpkin",
                 "helmet", "trident", "turtle_shell", "crossbow"
             ]
+        },
+
+        //Eco Enchants List
+
+        abrasion: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
         }
+        
     },
     items: [
         'helmet',
