@@ -258,10 +258,24 @@ var data = {
 
         abrasion: {
             levelMax: "2",
-            weight: "1",
+            weight: "2",
             incompatible: [],
             items: ["sword","axe"]
-        }
+        },
+        
+        adrenaline: {
+            levelMax: "3",
+            weight: "3",
+            incompatible: [],
+            items: ["shield"]
+        },
+        
+        arcane_defence: {
+            levelMax: "5",
+            weight: "4",
+            incompatible: [],
+            items: ["helmet", "chestplate", "leggings", "boots","turtle_shell"]
+        },
         
     },
     items: [
