@@ -264,7 +264,7 @@ var data = {
         },
         
         adrenaline: {
-            levelMax: "3",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["shield"]
@@ -292,7 +292,7 @@ var data = {
         },
         
         blackout: {
-            levelMax: "4",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
@@ -306,7 +306,7 @@ var data = {
         },
 
         bleed: {
-            levelMax: "7",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
@@ -320,7 +320,7 @@ var data = {
         },
 
         boss_hunter: {
-            levelMax: "8",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["bow","crossbow"]
@@ -348,42 +348,42 @@ var data = {
         },
 
         carve: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["axe"]
         },
 
         charge: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
         },
 
         confusion: {
-            levelMax: "4",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
         },
 
         contagion: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["trident"]
         },
 
         criticals: {
-            levelMax: "3",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword","axe"]
         },
 
         cubism: {
-            levelMax: "7",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword","axe","bow","crossbow"]
@@ -397,21 +397,21 @@ var data = {
         },
 
         dynamite: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["pickaxe"]
         },
 
         end_affinity: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["sword","bow","trident"]
         },
 
         ender_slayer: {
-            levelMax: "6",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword","axe"]
@@ -425,7 +425,7 @@ var data = {
         },
 
         excavation: {
-            levelMax: "5",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["shovel"]
@@ -439,28 +439,28 @@ var data = {
         },
 
         finishing: {
-            levelMax: "5",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword","axe"]
         },
 
         first_strike: {
-            levelMax: "5",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword","axe"]
         },
 
         flashbang: {
-            levelMax: "6",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["crossbow","bow"]
         },
 
         foraging: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["shears"]
@@ -474,21 +474,21 @@ var data = {
         },
 
         frost: {
-            levelMax: "3",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["bow"]
         },
 
         getaway: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["boots"]
         },
 
         goliath: {
-            levelMax: "6",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
@@ -502,7 +502,7 @@ var data = {
         },
 
         haunting: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["helmet"]
@@ -537,21 +537,21 @@ var data = {
         },
 
         lifesteal: {
-            levelMax: "6",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["sword"]
         },
 
         lumberjack: {
-            levelMax: "6",
+            levelMax: "5",
             weight: "1",
             incompatible: [],
             items: ["axe"]
         },
 
         metabolism: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["chestplate"]
@@ -565,21 +565,21 @@ var data = {
         },
 
         nether_affinity: {
-            levelMax: "4",
+            levelMax: "5",
             weight: "1",
             incompatible: ["end_affinity"],
             items: ["sword,bow,trident"]
         },
 
         nether_prospector: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: ["fortune","silk_touch"],
             items: ["pickaxe"]
         },
 
         ninja: {
-            levelMax: "5",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
@@ -600,7 +600,7 @@ var data = {
         },
 
         rapid: {
-            levelMax: "6",
+            levelMax: "5",
             weight: "1",
             incompatible: [],
             items: ["bow"]
@@ -677,7 +677,7 @@ var data = {
         },
 
         snipe: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["bow","crossbow"]
@@ -705,14 +705,14 @@ var data = {
         },
 
         stamina: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["chestplate"]
         },
 
         streamlining: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: [],
             items: ["boots"]
@@ -733,21 +733,21 @@ var data = {
         },
 
         thor: {
-            levelMax: "6",
+            levelMax: "5",
             weight: "1",
             incompatible: [],
             items: ["bow","crossbow"]
         },
 
         thrive: {
-            levelMax: "2",
+            levelMax: "4",
             weight: "1",
             incompatible: [],
             items: ["helmet","chestplate","leggings","boots"]
         },
 
         transmission: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["sword"]
@@ -768,7 +768,7 @@ var data = {
         },
 
         veinminer: {
-            levelMax: "4",
+            levelMax: "3",
             weight: "1",
             incompatible: ["blast_mining"],
             items: ["pickaxe"]
@@ -796,14 +796,14 @@ var data = {
         },
 
         wound: {
-            levelMax: "7",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["bow","crossbow"]
         },
 
         wyvern: {
-            levelMax: "2",
+            levelMax: "1",
             weight: "1",
             incompatible: [],
             items: ["elytra"]
