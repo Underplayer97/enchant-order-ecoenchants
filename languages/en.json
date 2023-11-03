@@ -110,6 +110,8 @@
         "binding_curse": "Curse of Binding",
         "vanishing_curse": "Curse of Vanishing",
 
-        "abrasion": "Abrasion"
+        "abrasion": "Abrasion",
+        "adrenaline": "Adrenaline",
+        "arcane_defence": "Arcane Defence"
     }
 }
