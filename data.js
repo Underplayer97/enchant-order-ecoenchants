@@ -276,6 +276,62 @@ var data = {
             incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots","turtle_shell"]
         },
+
+        ascend: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+        
+        aura: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["chestplate","leggings"]
+        },
+        
+        blackout: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        blast_mining: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: ["veinminer"],
+            items: ["pickaxe"]
+        },
+
+        bleed: {
+            levelMax: "7",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        block_breather: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet"]
+        },
+
+        boss_hunter: {
+            levelMax: "8",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","crossbow"]
+        },
+
+        breaklessness_curse: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","crossbow"]
+        }
         
     },
     items: [
