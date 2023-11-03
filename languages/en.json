@@ -108,6 +108,8 @@
         "thorns": "Thorns",
         "unbreaking": "Unbreaking",
         "binding_curse": "Curse of Binding",
-        "vanishing_curse": "Curse of Vanishing"
+        "vanishing_curse": "Curse of Vanishing",
+
+        "abrasion": "Abrasion"
     }
 }
