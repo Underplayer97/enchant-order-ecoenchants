@@ -330,7 +330,315 @@ var data = {
             levelMax: "1",
             weight: "1",
             incompatible: [],
+            items: ["hoe","axe","shovel","pickaxe"]
+        },
+
+        brightness: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: ["smite","sharpness","bane_of_arthropods","introversion","slaughter"],
+            items: ["sword"]
+        },
+
+        caffeinated: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        carve: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["axe"]
+        },
+
+        charge: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        confusion: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        contagion: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["trident"]
+        },
+
+        criticals: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        cubism: {
+            levelMax: "7",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe","bow","crossbow"]
+        },
+        
+        dexterity: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        dynamite: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["pickaxe"]
+        },
+
+        end_affinity: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","bow","trident"]
+        },
+
+        ender_slayer: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        escape: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: ["streamlining"],
+            items: ["boots"]
+        },
+
+        excavation: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["shovel"]
+        },
+
+        feather_step: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["boots"]
+        },
+
+        finishing: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        first_strike: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        flashbang: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["crossbow","bow"]
+        },
+
+        foraging: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["shears"]
+        },
+
+        fortitude: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet","chestplate","leggings","boots"]
+        },
+
+        frost: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["bow"]
+        },
+
+        getaway: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["boots"]
+        },
+
+        goliath: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        harmlessness_curse: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+
+        haunting: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet"]
+        },
+
+        hunger_curse: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet"]
+        },
+
+        infernal_touch: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: ["silk_touch"],
+            items: ["pickaxe"]
+        },
+
+        introversion: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: ["sharpness,smite","bane_of_arthropods","slaughter","brightness"],
+            items: ["sword"]
+        },
+
+        jumpshot: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
             items: ["bow","crossbow"]
+        },
+
+        lifesteal: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        lumberjack: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["axe"]
+        },
+
+        metabolism: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["chestplate"]
+        },
+
+        misfortune_curse: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["hoe,shovel,pickaxe,axe"]
+        },
+
+        nether_affinity: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: ["end_affinity"],
+            items: ["sword,bow,trident"]
+        },
+
+        nether_prospector: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: ["fortune","silk_touch"],
+            items: ["pickaxe"]
+        },
+
+        ninja: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        permanence_curse: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","pumpkin","book"]
+        },
+
+        poison_ivy: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: ["thorns"],
+            items: ["leggings"]
+        },
+
+        rapid: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["bow"]
+        },
+
+        rebounding: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["shield"]
+        },
+
+        repairing: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: ["mending"],
+            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","book"]
+        },
+
+        replenish: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["hoe"]
+        },
+
+        rocket_saver: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["elytra"]
+        },
+
+        rumble: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
         }
         
     },
