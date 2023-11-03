@@ -639,8 +639,183 @@ var data = {
             weight: "1",
             incompatible: [],
             items: ["sword"]
-        }
+        },
+
+        shulker_harvest: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: ["looting"],
+            items: ["sword"]
+        },
+
+        shura: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: ["looting"],
+            items: ["axe"]
+        },
+
+        skull_puncture: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","trident","crossbow"]
+        },
+
+        slaughter: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: ["sharpness","smite","bane_of_arthropods","introversion","brightness"],
+            items: ["sword"]
+        },
+
+        slipstream: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["trident"]
+        },
+
+        snipe: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","crossbow"]
+        },
+
+        soul_storm: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        soulbound: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","pumpkin","book"]
+        },
+
+        sparks: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["fishing_rod"]
+        },
+
+        stamina: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["chestplate"]
+        },
+
+        streamlining: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: [],
+            items: ["boots"]
+        },
+
+        stun: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","crossbow","bow","trident"]
+        },
+
+        telekinesis: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","pickaxe","axe"]
+        },
+
+        thor: {
+            levelMax: "6",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","crossbow"]
+        },
+
+        thrive: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet","chestplate","leggings","boots"]
+        },
+
+        transmission: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["sword"]
+        },
+
+        tripleshot: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["bow"]
+        },
         
+        vanish: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["helmet","chestplate","leggings","boots"]
+        },
+
+        veinminer: {
+            levelMax: "4",
+            weight: "1",
+            incompatible: ["blast_mining"],
+            items: ["pickaxe"]
+        },
+
+        vitality: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe","pickaxe","shovel"]
+        },
+
+        warp_drive: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["bow"]
+        },
+
+        wisdom: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe","bow","crossbow","shovel","trident","pickaxe","hoe"]
+        },
+
+        wound: {
+            levelMax: "7",
+            weight: "1",
+            incompatible: [],
+            items: ["bow","crossbow"]
+        },
+
+        wyvern: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: [],
+            items: ["elytra"]
+        },
+
+        xray: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: [],
+            items: ["pickaxe"]
+        },
+    
     },
     items: [
         'helmet',
