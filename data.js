@@ -525,7 +525,7 @@ var data = {
         introversion: {
             levelMax: "5",
             weight: "1",
-            incompatible: ["sharpness,smite","bane_of_arthropods","slaughter","brightness"],
+            incompatible: ["sharpness","smite","bane_of_arthropods","slaughter","brightness"],
             items: ["sword"]
         },
 
@@ -617,7 +617,7 @@ var data = {
             levelMax: "3",
             weight: "1",
             incompatible: ["mending"],
-            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","book"]
+            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick"]
         },
 
         replenish: {
@@ -694,7 +694,7 @@ var data = {
             levelMax: "1",
             weight: "1",
             incompatible: [],
-            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","pumpkin","book"]
+            items: ["helmet","chestplate","leggings","boots","turtle_shell","elytra","sword","axe","trident","pickaxe","shovel","hoe","bow","shield","crossbow","brush","fishing_rod","shears","flint_and_steel","carrot_on_a_stick","warped_fungus_on_a_stick","pumpkin"]
         },
 
         sparks: {
