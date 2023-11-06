@@ -1,13 +1,5 @@
 var data = {
     enchants: {
-        /*TEMPLATE
-        enchant: {
-            levelMax: "1",
-            weight: "4",
-            incompatible: [],
-            items: ["helmet", "chestplate", "leggings", "boots", "elytra", "pumpkin", "helmet", "turtle_shell"]
-        },*/
-
 
         protection: {
             levelMax: "4",
